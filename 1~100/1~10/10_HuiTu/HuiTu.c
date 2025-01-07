@@ -72,3 +72,4 @@ EXIT:
 	goodbye();
 	closegraph();
 }
+// 已经忘记了这个项目是做什么的了
